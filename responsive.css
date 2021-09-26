@@ -1,0 +1,335 @@
+@media (max-width:1080px) {
+    .fixed-width {
+        width:950px;
+    }
+    .defalt-button {
+        padding: 8px 14px;
+       
+    }
+    .learn-div {
+        width: 30%;
+    }
+    .item1 p {
+        font-size: 16px;
+    }
+    .test1 p {
+        font-size: 18px;
+    }
+    .email {
+        width: 80%;
+      
+    }
+    .name {
+        width: 80%;
+        margin-right: 0;
+    }
+    .number {
+        width: 80%;
+        margin-top: 20px;
+    }
+    .message {
+        width: 80%;
+      
+    }
+}
+@media (max-width:992px) {
+    .fixed-width {
+        width:680px;
+    }
+    .defalt-button {
+        font-size: 12px;
+    }
+    .menu-item ul li a {
+        padding: 0 16px;   
+    }
+    .header-span {
+        font-size: 15px;
+    }
+    .right-content h1 {
+        font-size: 30px;
+    }
+    .right-content p {
+        font-size: 19px;
+    }
+    .learn-more h1 {
+        font-size: 41px;
+      
+    }
+    .learn-div {
+        width: 46%;
+    }
+    .learn-more {
+        height: 1014px;
+    }
+    .contenth3 {
+        font-size: 37px;
+    }
+    .contenth4 {
+        font-size: 18px;
+    }
+    .item {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .content3 {
+        padding-bottom: 73px;
+        height: auto;
+    }
+    .team {
+        width: 45%;
+        margin-top: 30px;
+    }
+    .content4 h1 {
+        font-size: 25px;
+    }
+    .content4 {
+        height: auto;
+        padding-bottom: 42px;
+    }
+    .content5 h3 {
+        font-size: 20px;
+    }
+    .content5 h1 {
+        font-size: 35px;
+    }
+    .heading-left {
+        width: 100%;
+        text-align: center;
+    }
+    .heading-right {
+        width: 100%;
+        text-align: center;
+    }
+    .heading-right p {
+        padding-top: 24px;
+        font-size: 17px;
+    }
+    .my1 {
+        width: 100%;
+    }
+    .my2 {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .my-div {
+        padding-bottom: 61px;
+        height: auto;
+    }
+    .testimonial h1 {
+        font-size: 25px;   
+    }
+    .testimonial h4 {
+        font-size: 22px;
+    }
+    .test {
+        width: 28%;
+    }
+    .test1 p {
+        font-size: 14px;
+    }
+    .test2 h3 {
+        padding: 5px;
+        font-size: 6.8px;
+      
+    }
+    .test img {
+        margin-left: 29px;
+    }
+    .left-map {
+        width: 100%;
+    }
+    .right-form {
+        width: 100%;
+        text-align: center;
+    }
+    .banner {
+        padding: 62px 0;  
+    }
+    .banner-contant h4 {
+        font-size: 19px;
+    }.banner-contant h2 {
+        font-size: 41px;
+    }
+    .btn {
+    width: 168px;
+    height: 52px;
+    line-height: 52px;
+    }
+      
+}
+@media (max-width:700px) {
+    .fixed-width {
+        width:100%;
+    }
+  
+}
+.menu-item span{
+    display: none;
+}
+@media (max-width:668px) {
+    .fixed-width {
+        width: 580px;
+    }
+    .ema {
+        margin-top: 20px;
+    }
+    .heading-right p {
+        padding-bottom: 15px;
+    }
+    .test {
+        width: 100%;
+        margin-left: 0;
+    }
+    .test2 h3 {
+        font-size: 22.8px;
+    }
+    .test img {
+        margin-left: 29px;
+        margin-bottom: 25px;
+    }
+    .right-content h1 {
+        font-size: 25px;
+    }
+    .right-content {
+        width: 100%;
+        text-align: center;
+    }
+    .right-content p {
+        font-size: 14px;
+    }
+    .lorem h3 {
+        font-size: 16px;
+    }
+    .lorem p {
+        font-size: 13px;
+    }
+    .testimonial {
+        height: auto;
+    }
+    .text {
+      margin-right: 0;
+    }
+    .foot {
+        font-size: 14px;
+    }
+    .left-content {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .container {
+     height: auto;
+    }
+    .learn-more h1 {
+        font-size: 27px;
+    }
+    .learn-p {
+        font-size: 17px;
+    }
+    .contenth3 {
+        font-size: 32px;
+    }
+    .contenth4 {
+        font-size: 16px;
+    }
+    .bot {
+        height: 42px;
+        width: 89px;
+    }
+    .heading-left h1 {
+        font-size: 33px;
+    }
+    .right-form p {
+        font-size: 16px;
+    }
+    .heading-right p {
+        font-size: 13px;
+    }
+    .item {
+        width: 97%;
+    }
+    .logo {
+        width: 100%;     
+    }
+    .menu-item ul {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .menu {
+        width: 100%;
+    }
+    .defalt-button {
+        position: absolute;
+        top: 50px;
+        right: 10px;
+    }
+    .menu-item span{
+        font-size: 30px;
+        display: block;
+        padding-left: 10px;
+    }
+  
+}
+@media (max-width:585px) {
+    .header {
+    padding: 5px 25px;   
+    }
+    .banner-contant h2 {
+        font-size: 29px;
+    }
+    .banner-contant h4 {
+        font-size: 15px;
+    }
+    .fixed-width {
+        width: 500px;
+    }
+    .learn-div {
+        width: 97%;
+    }
+    .item {
+        width: 96%;
+    }
+    .learn-more {
+        height: auto;
+        padding-bottom: 184px;
+    }
+    .contenth4 {
+        font-size: 14px;
+    }
+    .team {
+        width: 93%;
+        margin-top: 30px;
+    }
+    .right-form p {
+        font-size: 13px;
+    }
+    .content5 h3 {
+        font-size: 16px;
+    }
+    .content5 h1 {
+        font-size: 31px;
+    }
+    .testimonial h1 {
+        font-size: 22px;
+    }
+    .testimonial h4 {
+        font-size: 19px;
+    }
+}
+@media (max-width:495px) {
+    .btn {
+        width: 90%;
+        margin-top: 20px;
+    }
+    .fixed-width {
+        width: 400px;
+    }
+}
+@media (max-width:495px) {
+    .fixed-width {
+        width: 300px;
+    }
+    .foot {
+        font-size: 10px;
+    }
+}
